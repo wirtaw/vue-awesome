@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 wirtaw/vue-awesome is built on the following main stack:
+
 - [Linode](https://www.linode.com) – Cloud Hosting
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -19,11 +20,13 @@ wirtaw/vue-awesome is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 wirtaw/vue-awesome is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png' alt='Linode'/> [Linode](https://www.linode.com) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -41,14 +44,15 @@ wirtaw/vue-awesome is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [wirtaw/vue-awesome](https://github.com/wirtaw/vue-awesome)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|73<br/>Tools used|11/11/23 <br/>Report generated|
+|74<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -230,9 +234,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (55)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -245,6 +249,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-stage-2](https://www.npmjs.com/babel-preset-stage-2)|v6.24.1|03/21/19|Justineo |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|09/11/17|Justineo |MIT|N/A|
 |[babel-runtime](https://www.npmjs.com/babel-runtime)|v6.26.0|09/11/17|Justineo |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|04/22/17|Justineo |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.6.0|03/21/19|Justineo |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v4.6.0|06/09/19|dependabot[bot] |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.2.0|08/31/18|Justineo |MIT|N/A|
@@ -294,4 +299,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
