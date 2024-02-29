@@ -2,7 +2,7 @@ repo_name: wirtaw/vue-awesome
 report_id: '008933e122e4f81f470608df060723cd'
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:51:09+00:00'
+timestamp: '2024-02-29T18:39:21+00:00'
 requested_by: Justineo
 provider: github
 branch: master
@@ -147,7 +147,7 @@ tools:
   last_updated_by: Justineo
   last_updated_on: 2016-04-01 09:06:38.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.16.3
   license: MIT
